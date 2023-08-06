@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zenlyapp",
+  "private_key_id": "cc2911e05ef26b526fb97c6ed2c160c002c97171",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtCF6E2I8azY1h\nr3OzPcQDFi1qDxvE1Plq2AseARjdE7JYnWEqj26d5pdxfZZze+I8KYpBF17wNctR\nqD5QzMSAZEJet5D9O2EXH0ViP9yrCq6hx98XBhJUVlSeEjqWulxygKgUxsSDN/ae\nkg5I6CXqtZBwj5gllSXzcNYlVsJhH0NCy/7yJIhW/ixVCEPcR8cUBtnalf4XA8xm\nbv1ljl62aZ9vQMY4j0nSXaHUBLn9c6STkiMtJJ3oEUl2F1wl6JjvC+XFTOZzD1zx\nlRFfOkO0lq1Ar7AZIWAWA4h9htVSmI9JLXnkBn6H1+iXemjqAv7lOTzZ/V7qPRHk\nkRnrkk1/AgMBAAECggEABEAeazJ1lNru7+QtCOrf7QnK2ZHYSarbpStewGNHqljB\nZxA+8XLk7LGDcimZL8yphsXPiJQH+Amej6DpMlo648yrTrS3SXzh9rgYqbs6aQuD\nK19cWV96AFQhzSXwfGz/wfs6PmKQqhKEvn2ZJsWP4wk5ShAZ3n+0PogVUpjLf6iI\nH77xyX3qEodLYld0D8r2yX3cOlL4J8hUeZwELlYOQCX3xUf8wLLeZgfOsAjc5DPJ\nSVg2bjC5nxJ0ODBc0hm4EG8tiAc+jS41axI8SR9jW/T2u52ZGfeNK6HPULcpQCYl\n0GHHknvDIm5BvKi1RIGWz/7Lf56QMZsIBQQ5Ue2QXQKBgQDpBKxw8YpmuKI9sx5C\npWnBW2gb3s8IkRFfx+WQDy0JFHiidZ37B8vZaqa09l2lNxbxc16jDeSHsnQ4YF++\nx4meUBOls9maARPJM3dQA9pIW0Ctp4WXkoDMoH3q/9Bqp+GuXXhPTDwPTrxh7tTI\nJ2B1r4z/uaLWq3NRn8if2XmM/QKBgQC+GSi8XCh3YYgV7lXtASChxG5lfdDs5v+8\nFSpTOIhrso32tAlz2Ra2TzSQO4z3EJ0JTgRIl2f+UM5JBinM0Rod1Mue5tB1QFcQ\nVl0GNawfosAuBmGhv2vQuy5PiB6m6OA3gdkl+e5St0yWPM+rUbmAAomltmIPafl5\nHnnnwzfLKwKBgF9WeC9lxBivJkJUTOc7wn9IJNpyWQbKQ++KXBSLAQQcChd+Q/r3\nf6IfDsIvorT8SzjS2T+haYVTsFV4qPPntBi/7qn3Yequ0ieaFRD54o+ENnxWdERF\nvsj6SUqjC+T3d1DeEWFwcYpZzp3LF+gkpETCZNAkZcmrMG2PEIjGdAMJAoGAQhc7\nK2mbBA5bosxPAWxP7Q3/F7gLaCHTrY9qPK699zuH0cq8MpO6Kr4U10Rs+QTEpBSE\ntrw1Ap0Tax4CcFwOiWqPNHqo5OrumhZ8lwkYA5Ow3w+G6BZGJLa/HhWEGqGCOqoh\nVeuz6PwjW2RfCwAJzzCSrJNhOlysyGhJF8OuZSsCgYBaLP6V1pHNtd2fpnFymx4N\n4hN/MO+udrd4eSX26eKlGckn7L3BdzOJrR7BPDqEL5hskj3jO2dFoSGASfYCX8Mb\nn23r5MDSLGlv/TurchKsgGgDARyruIF//RJlIXcqrFztdafKMVAZXWRb8lKrhce7\nOuyVMLU2vW/OhGf6D/Qcsg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "zenlyapp@appspot.gserviceaccount.com",
+  "client_id": "113522202106196814868",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zenlyapp%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
